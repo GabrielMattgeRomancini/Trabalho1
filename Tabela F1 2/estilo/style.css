@@ -1,0 +1,155 @@
+html{background-color: rgb(66, 65, 65);}
+#img_equipe{
+    height: 75px;
+    width: 75px;
+    border-radius: 30%
+}
+#img_piloto{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#imgbandeira{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.fonte{
+    font-family:Arial, Helvetica, sans-serif
+}
+.numero{
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.borda{
+    text-align: center;
+    width: 400px;
+    background-color: rgb(255, 118, 118);
+    border-collapse: collapse;
+    border-width: 3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+td{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.back1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    border-top-left-radius: 20px;
+    height:  50px;
+    text-align: center;
+} 
+.back2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    height:  50px;
+    text-align: center;
+}
+.back3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    border-top-right-radius: 20px;
+    height:  50px;
+    text-align: center;
+}
+h1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.back4{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+}
+.back5{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.back6{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+
+}
+#imagemcorrida{
+height: 200px;
+width: 250px;
+}
+.corridas{
+
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    border-width: 3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.tabelapiloto{
+    display: inline-block;
+    float: left;
+    width: 400px;
+}
+.corrida1{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 87px;
+}
+.corrida2{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.corrida3{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.equipes{
+    display: inline-block;
+}
+.titulopontos{
+    font-size: 35px;
+    background-color: red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+}
+.pontos{
+    border-color: black;
+    border-bottom: 3px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-collapse: separate;
+    border-width: 3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.pontuacao{
+    float: center;
+    margin-top: 75px;
+    margin-right: 50px;
+}
+.eqpPiloto{
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    border-width: 3px;
+
+}
